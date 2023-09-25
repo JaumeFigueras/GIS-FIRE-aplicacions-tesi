@@ -1,1 +1,1 @@
-# GIS-FIRE-aplicacions-tesi
+# Gis-FIRE-aplicacions-tesi
